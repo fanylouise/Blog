@@ -10,7 +10,6 @@ import Post from '../src/componentes/Post/Post'
 function App() {
   return (
     <>
-      <h1>Meu Blog</h1>
       <Header/>
       <Article/>
     </>
