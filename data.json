@@ -1,0 +1,29 @@
+
+{
+  "posts":[
+    {
+      "id":1,
+      "category":"Tecnologia",
+      "title":"O guia definitivo para aprender React",
+      "resume":"This is post 1",
+      "author":"Caitlyn",
+      "date":"2019-01-01"
+    },
+    {
+      "id":2,
+      "category":"Fotografia",
+      "title":"Como tirar fotos incríveis",
+      "resume":"This is post 2",
+      "author":"Jinx",
+      "date":"2019-01-11"
+    },
+    {
+      "id":7,
+      "category":"Cinema",
+      "title":"Os filmes mais assistido do Streamming em 2022",
+      "resume":"This is post 3",
+      "author":"Violet",
+      "date":"2019-01-12"
+    }
+  ]
+}

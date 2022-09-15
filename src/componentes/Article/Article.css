@@ -11,3 +11,10 @@ body{
   
   color: rgb(255, 255, 255);
 }
+div.container-posts{
+  display: flex;
+  margin-top: 48px;
+}
+.post{
+  margin-left: 16px;
+}
